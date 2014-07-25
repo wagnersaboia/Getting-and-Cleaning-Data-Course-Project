@@ -1,3 +1,5 @@
+Description the variables contained in the tidy data result
+===========
 
 The data set submited for this course project (which can be seen in the file "tidy_data_set.txt") has the following variables:
 
